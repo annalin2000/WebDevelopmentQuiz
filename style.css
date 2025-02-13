@@ -1,0 +1,58 @@
+/* Basic Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #dcdcdc; /* light grey */
+  color: #000000; /* black */
+  margin: 0;
+}
+
+/* Header */
+header {
+  background-color:#663399 ; /* purple */
+  color: white; /* text */
+  text-align: center;
+  padding: 1rem;
+} 
+
+/* Main Quiz */
+main {
+  max-width: 600px;
+  margin: auto;
+  padding: 1rem;
+  background: white; 
+}
+
+/* Question and Answers */
+
+#answers {
+  list-style-type: none; 
+  padding: 0;
+}
+
+#answers li {
+  background: #dcdcdc;/* light grey background */
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+}
+
+#answers li:hover {
+  background: #d1c4e9;/* turns purple on hover */
+}
+
+/* Buttons */
+button {
+  background: #6200ea; /* purple */
+  color: white; /* white text */
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+}
+
+.hidden {
+  display: none; /* Hidden elements are not displayed */
+}
+
+/* Results */
+#results {
+  text-align: center; /* In results section, the text are centered */
+}
