@@ -16,9 +16,9 @@ A simple, interactive web based quiz built with HTML, CSS, and JavaScript
 --- 
 
 ## 🧩 Technologies Used ##
-HTML5: for structuring the quiz layout
-CSS3: for styling and responsive design
-Vanilla JavaScript: for quiz logic and interactivity
+- HTML5: for structuring the quiz layout
+- CSS3: for styling and responsive design
+- Vanilla JavaScript: for quiz logic and interactivity
 
 --- 
 
