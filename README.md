@@ -6,12 +6,12 @@ A simple, interactive web based quiz built with HTML, CSS, and JavaScript
 
 ## 🚀 Features ##
 
-🎯 Multiple choice questions covering key web dev topics
-💡 Instant feedback for correct or incorrect answers
-⏭️ “Next Question” navigation
-🧾 Displays total score and personalized results message
-🔁 Restart option to retake the quiz
-💅 Clean, responsive design with engaging colors and hover effects
+- 🎯 Multiple choice questions covering key web dev topics
+- 💡 Instant feedback for correct or incorrect answers
+- ⏭️ “Next Question” navigation
+- 🧾 Displays total score and personalized results message
+- 🔁 Restart option to retake the quiz
+- 💅 Clean, responsive design with engaging colors and hover effects
 
 --- 
 
@@ -24,12 +24,13 @@ Vanilla JavaScript: for quiz logic and interactivity
 
 ## 📂 Project Structure ##
 
-
+```
 web-development-quiz/
 ├── index.html        
 ├── style.css         
-└── script.js     
+└── script.js
+```
 
-## Live Demo ##
+## 🔗 Live Demo ##
 
-https://annalin2000.github.io/WebDevelopmentQuiz/
+You can see the site live at: https://annalin2000.github.io/WebDevelopmentQuiz/
